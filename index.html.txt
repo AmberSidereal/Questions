@@ -12,7 +12,7 @@
       <button id="dont" onClick = "dontKnow()">Don't know -- this feature isnt perfect</button>
       <p id="question"></p>
       <p>Assets</p>
-      <img src="https://assets.onecompiler.app/4325sw7dy/4325syet6/IMG_3188.png" width="154" height="204">
+   
    <p id="reviseBanner">Things needed to revise</p>
       <p id="unknown"></p> 
       <script src="script.js"></script>

@@ -1,0 +1,10 @@
+body{
+  padding: 25px;
+  font-family: Sans-Serif;
+}
+.title {
+	color: #5C6AC4;
+}
+#reviseBanner {
+  font-family: Monospace;
+}

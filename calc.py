@@ -10,15 +10,8 @@ Original file is located at
 
 
 # @title
-x = str(3)
-y = int(3)
-z = 1 #integer
-w = 0.1 #float
-a = "unique" #string
-b = "4" #string
-c = True #boolean
-myList = [x, y, z, w, a, b, c]
-  print("Integer Calculator by Amber Lam")
+
+  print("Integer Calculator")
   first = input("First number?")
   op = input("Operation? + - * /")
   second = input("Second number")
